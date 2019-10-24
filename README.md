@@ -1,8 +1,7 @@
 # Hypercube
 Low cost 3D printer based on the Hypercube by Tech2C at https://www.thingiverse.com/thing:1752766
 
-
-![Hypercube 3D printer](hypercube.png =300x)
+<img src="hypercube.png" width="300"/>
 
 ## What's different?
 * 10mm rods for all axis
