@@ -3,6 +3,6 @@ Low cost 3D printer based on the Hypercube by Tech2C at https://www.thingiverse.
 
 
 ## TODO
-..* FreeCAD model
+  * FreeCAD model
 
 ![Hypercube 3D printer](hypercube.png)
